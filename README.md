@@ -58,7 +58,7 @@ pip install opencv-python mediapipe numpy
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 ```bash
 python air_canvas.py
@@ -68,7 +68,7 @@ Make sure your webcam is connected. Allow camera access if prompted.
 
 ---
 
-## 🖌️ How to Use
+##  How to Use
 
 | Gesture / Action | Result |
 |---|---|
@@ -111,6 +111,3 @@ aircanvas_virtual_handgesture_drawing/
 B.E. CSE (AI/ML) — MITE Mangalore  
 [GitHub](https://github.com/RiyazAhmedKhan18)
 
-**Riyaz Ahmed Khan**  
-B.E. CSE (AI/ML) — MITE Mangalore  
-[GitHub](https://github.com/RiyazAhmedKhan18)
